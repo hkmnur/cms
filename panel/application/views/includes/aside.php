@@ -114,7 +114,7 @@
         </li>
         <li>
           <a href="javascript:void(0)">
-                <i class="menu-icon fa fa-user-secret"></i>
+            <i class="menu-icon fa fa-user-secret"></i>
             <span class="menu-text">Users</span>
           </a>
         </li>
